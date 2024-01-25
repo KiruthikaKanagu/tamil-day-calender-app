@@ -1,10 +1,14 @@
-# Your App Title
+# Tamil Calender Application
 
-Write app description in detail!
+Simplified tamil day calender application
 
 #### Screenshots
 
 [Yet to be uploaded]
+
+#### Live ()[https://KiruthikaKanagu.io/tamil-day-calender-app]
+
+
 
 ## 🎉 Check it yourself!
 
@@ -85,6 +89,6 @@ npm run preview
 
 #### Authors:
 
-- [Anbuselvan Rocky](https://fb.me/anburocky3)
+- [Kiruthika Kanagaraj](https://fb.me/anburocky3)
 
 [![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)

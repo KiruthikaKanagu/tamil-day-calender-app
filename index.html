@@ -1,16 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
 
-    <!-- TailwindCSS -->
-    <link rel="stylesheet" href="./assets/css/index.css" />
-  </head>
-  <body>
-    <!-- Write your HTML here -->
-    <div id="app" class="text-3xl font-bold">Hello Vite HTML & Tailwind!</div>
-    <script type="module" src="./assets/js/main.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tamil Day Calender</title>
+
+  <!-- TailwindCSS -->
+  <link rel="stylesheet" href="./assets/css/index.css" />
+</head>
+
+<body class="bg-slate-800 text-white">
+  <form id="dateform" class="p-10 rounded mt-10 mr-20 ml-20 mb-5 bg-slate-600">
+    <label for="date" class="text-white text-lg">Select Date</label> <br>
+    <input type="date" id="date" class="outline-none px-3 py-1 rounded bg-slate-800">
+    <button id="btn" class="px-4 py-2 rounded bg-blue-500 hover:bg-blue-800">Get Calender</button>
+  </form>
+
+  <!-- <div class="m-5 sm:m-20 bg-slate-600 p-3 sm:p-5 rounded">
+    <img src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" alt="Loading" class="w-10 h-10 rounded"
+      id="dayImg" />
+  </div> -->
+
+  <div class="flex justify-center items-center">
+    <div class="  bg-slate-600 p-5">
+      <img class=" w-full" id="dayImg" src="https://i.gifer.com/origin/34/34338d26023e5515f6cc8969aa027bca.gif" alt="Tamil daily Calendar">
+    </div>
+  </div>
+
+
+  <div class="text-center text-slate-400 mt-5">
+    All images are from 
+    <a href="https://www.livechennai.com/calendar_2024.asp">https://www.livechennai.com/calendar_2024.asp they deserve everything</a>
+  </div>
+  <script type="module" src="./assets/js/main.js"></script>
+</body>
+
 </html>
