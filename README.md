@@ -6,31 +6,15 @@ Simplified tamil day calender application
 
 [Yet to be uploaded]
 
-#### Live ()[https://KiruthikaKanagu.io/tamil-day-calender-app]
+#### Live ()[https://kiruthikakanagu.github.io/tamil-day-calender-app/]
 
 
 
 ## 🎉 Check it yourself!
 
-| 🚧 Build Status  | [![Netlify Status](https://img.shields.io/github/actions/workflow/status/anburocky3/festival-greeting-app/deploy.yml?logo=github&label=Live)](https://app.netlify.com/sites/cyberdude-internship/deploys) |
-| ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | https://anburocky3.github.io/vite-html-tailwind                                                                                                                                                           |
+| ✅ Live Website: | https://kiruthikakanagu.github.io/tamil-day-calender-app/                                                                                                                                                     |
 
 ---
-
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/anburocky3/vite-html-tailwind/generate).
-
-### Clone to local
-
-If you prefer to do it manually with the cleaner git history
-
-```bash
-npx degit anburocky3/vite-html-tailwind my-app
-cd my-app
-npm install # Install dependencies
-```
 
 ## Checklist
 
@@ -86,9 +70,3 @@ npm run preview
 <a href="https://ibb.co/jJc7t1G"><img src="https://i.ibb.co/phtCq9Z/Screenshot-2024-01-14-235908.png" alt="Screenshot-2024-01-14-235908" border="0"></a>
 
 #### LICENSE: [MIT](./LICENSE)
-
-#### Authors:
-
-- [Kiruthika Kanagaraj](https://fb.me/anburocky3)
-
-[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)
